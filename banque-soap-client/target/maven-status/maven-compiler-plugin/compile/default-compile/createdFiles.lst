@@ -1,0 +1,12 @@
+proxy\BanqueWS.class
+proxy\ListComptesResponse.class
+proxy\package-info.class
+proxy\ConversionEuroToDHResponse.class
+proxy\ObjectFactory.class
+proxy\GetCompteResponse.class
+proxy\ListComptes.class
+proxy\Compte.class
+proxy\BanqueService.class
+proxy\ConversionEuroToDH.class
+client\ClientSOAP.class
+proxy\GetCompte.class
